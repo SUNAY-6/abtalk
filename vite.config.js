@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 // Repo name is abtalk -> https://github.com/YOUR_NAME/abtalk
-const REPO_NAME = "/abtalks_shinchan/"
+const REPO_NAME = "/abtalk/"
 
 export default defineConfig(({ mode }) => ({
   // In development use "/" so http://localhost:5173/ works
