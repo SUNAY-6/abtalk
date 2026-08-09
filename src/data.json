@@ -1,0 +1,43 @@
+{
+  "student": {
+    "name": "Aarav Mehta",
+    "college": "RV College of Engineering",
+    "year": "3rd Year • CSE",
+    "track": "Frontend",
+    "avatar": "AM",
+    "streak": 11,
+    "longestStreak": 11,
+    "completed": 11,
+    "total": 60,
+    "rank": 342,
+    "percentile": 68,
+    "recruiterViews": 47,
+    "freezesAvailable": 1,
+    "freezesUsed": 0,
+    "joinedOn": "2025-06-27"
+  },
+  "progressDays": "60 days mock — see data.js",
+  "streakCalendar": [
+    {"date": "Jul 28", "day": 7, "status": "done"},
+    {"date": "Jul 29", "day": 8, "status": "missed"},
+    {"date": "Jul 30", "day": 9, "status": "done"},
+    {"date": "Jul 31", "day": 10, "status": "done"},
+    {"date": "Aug 01", "day": 11, "status": "done"},
+    {"date": "Aug 02", "day": 12, "status": "today"},
+    {"date": "Aug 03", "day": 13, "status": "upcoming"}
+  ],
+  "day12": {
+    "day": 12,
+    "track": "Frontend",
+    "title": "Weather App that doesn’t look like a tutorial",
+    "difficulty": "Intermediate",
+    "time": "45–60 min",
+    "brief": "Build a weather app that people would actually keep on their phone.",
+    "objectives": [
+      "Fetch live weather for any Indian city (OpenWeather API)",
+      "Show current temp, feels-like, humidity, wind + 3-day forecast",
+      "Add location search with debounce + error states",
+      "Make it thumb-friendly — big tap targets, no tiny inputs"
+    ]
+  }
+}
